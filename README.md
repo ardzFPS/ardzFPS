@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ardzFPS
-- 👀 I’m interested in coding and playing games 
+- 👀 I’m interested in coding (JS C) and playing games (Valorant)
 - 📫You can reach me on Discord https://discord.gg/caAYsvTjsW + /<|arda|>/#0266
 
 <!---
