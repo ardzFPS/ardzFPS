@@ -6,7 +6,7 @@
 <h1> ❔ About </h1>
   <p> 🏷 I'm Arda </p>
   <p> 🏳 I live in Eskişehir,Türkiye </p>
-   <p> 👀 I’m interested in coding and playing games (Valorant,Fortnite,Minecraft) </p>
+   <p> 👀 I’m interested in coding and playing games (Valorant,Minecraft,JS,TS) </p>
   <p> 🖥 Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
 
 
