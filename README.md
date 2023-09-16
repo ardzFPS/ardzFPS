@@ -22,10 +22,10 @@
   
 
 
-# [Mybutton Website](https://mybutton.org) 
+# [Mybutton Website](https://mybutton.dev) 
 # [Discord](https://canary.discord.com/channels/796625201336811520/845554695161511946)
 
-[Thisisarda#6899(711886425557041172)](https://discord.com/users/711886425557041172)
+[@thisisarda(711886425557041172)](https://discord.com/users/711886425557041172)
 
 <!---
 ardzFPS/ardzFPS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
